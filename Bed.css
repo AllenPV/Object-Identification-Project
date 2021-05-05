@@ -1,0 +1,8 @@
+#Bedimg{
+    border: white ridge 5px;
+    box-shadow: 15px 15px 15px black;
+    width: 50%;
+}
+body{
+    background-size: cover;
+}
